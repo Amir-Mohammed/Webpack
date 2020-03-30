@@ -1,0 +1,14 @@
+#calculator,
+#numbers {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 20px auto;
+  color: #fff;
+}
+
+.number {
+  margin-bottom: 10px;
+}
+
